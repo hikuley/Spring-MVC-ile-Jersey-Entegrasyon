@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Spring MVC ile Jersey Entegrasyon:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Spring MVC ile Jersey Entegrasyon.war">
+      <element id="artifact" artifact-name="Spring MVC ile Jersey Entegrasyon:war exploded" />
+    </root>
+  </artifact>
+</component>
