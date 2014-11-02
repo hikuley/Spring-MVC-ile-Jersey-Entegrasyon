@@ -18,7 +18,7 @@ public class BookDAOImpl implements BookDAO {
             Book book = new Book();
             book.setId(12);
             book.setName("Sah Ve Sultan");
-            book.setAuthor("Halil İbrahim Küley");
+            book.setAuthor("İskender Pala");
             book.setWriteTime("12.15.25");
             bookList.add(book);
         }
